@@ -1,6 +1,7 @@
 # Smart-Switch
 Android multi choice switch view (Used this in my project, hope you find it useful)
-
+<br/><br/>
+<img src="screenshot.png" height="430px" />
 <h1>Features</h1>
 <ol style="list-style:decimal">
   <li>Two Styles, Box or Round</li>
