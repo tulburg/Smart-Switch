@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Switch">
+        <attr name="activeColor" format="color">@color/blue</attr>
+        <attr name="inActiveColor" format="color">@color/white</attr>
+        <attr name="activeTextColor" format="color">@color/black</attr>
+        <attr name="inactiveTextColor" format="color">@color/white</attr>
+        <attr name="cornerRadius" format="float">6.0f</attr>
+        <attr name="strokeWidth" format="integer">4</attr>
+    </declare-styleable>
+
+</resources>
